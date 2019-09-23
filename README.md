@@ -1,2 +1,2 @@
 # jlb4.github.io
-#This is my fun test website
+#This website redirects to my linkedin
