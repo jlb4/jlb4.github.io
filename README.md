@@ -6,5 +6,5 @@ Also to host my resume and other advancements in my professional career developm
 
 
 
-creds: 
-    favicon_io - free favicon generator - this is the little icon on the tab in your browser https://favicon.io/favicon-converter/
+creds:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;favicon_io - free favicon generator - this is the little icon on the tab in your browser https://favicon.io/favicon-converter/
