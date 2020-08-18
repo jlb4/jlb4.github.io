@@ -2,7 +2,7 @@
 
 
 This website used to redirect to my linkedin  
-Now it is a simple sandbox for me to learn html on my own 
+Now it is a simple sandbox for me to learn html on my own  
 Also to host my resume and other advancements in my professional career development.  
 
 creds:<br>
